@@ -1,0 +1,2 @@
+This is the repository for collaboration on Transfer Orthology Networks (TRON), a novel neural network architecture for cross species transfer learning of transcriptomic data. I first proposed and began investigating this architecture in 2021, but
+am continuing to collect further data for experimental validation prior to publication in a scientific venue. Reach out if you would like to collaborate on this!
